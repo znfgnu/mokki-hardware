@@ -1699,4 +1699,6 @@ Text Notes 6400 4200 2    50   ~ 0
 Common anode (60 mA)
 Wire Wire Line
 	1050 3300 1050 3350
+Wire Wire Line
+	10350 4850 10350 5450
 $EndSCHEMATC

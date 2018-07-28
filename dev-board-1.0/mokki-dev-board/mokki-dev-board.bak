@@ -713,10 +713,10 @@ Wire Notes Line
 	6450 3000 6450 750 
 Wire Notes Line
 	6450 750  4750 750 
-Text Label 1800 1550 0    50   ~ 0
+Text Label 1750 1550 0    50   ~ 0
 NRST
 Wire Wire Line
-	1800 1550 2200 1550
+	1750 1550 2200 1550
 Text Notes 6550 850  0    50   ~ 0
 Reset circuit
 Text Notes 6550 2000 0    50   ~ 0
