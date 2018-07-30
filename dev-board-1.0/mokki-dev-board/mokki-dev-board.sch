@@ -119,7 +119,7 @@ U 1 1 5B592AA5
 P 5150 1450
 F 0 "BT1" H 5258 1496 50  0000 L CNN
 F 1 "Battery" H 5258 1405 50  0000 L CNN
-F 2 "TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm" V 5150 1510 50  0001 C CNN
+F 2 "Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical" V 5150 1510 50  0001 C CNN
 F 3 "~" V 5150 1510 50  0001 C CNN
 	1    5150 1450
 	1    0    0    -1  

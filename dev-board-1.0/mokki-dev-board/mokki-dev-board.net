@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/konrad/mokki/hardware/dev-board-1.0/mokki-dev-board/mokki-dev-board.sch)
-    (date "Mon Jul 30 10:54:16 2018")
+    (date "Mon Jul 30 13:03:44 2018")
     (tool "Eeschema 5.0.0")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -45,7 +45,7 @@
       (tstamp 5B58F62A))
     (comp (ref BT1)
       (value Battery)
-      (footprint TestPoint:TestPoint_2Pads_Pitch2.54mm_Drill0.8mm)
+      (footprint Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical)
       (datasheet ~)
       (libsource (lib Device) (part Battery) (description "Battery (multiple cells)"))
       (sheetpath (names /) (tstamps /))
