@@ -1137,7 +1137,7 @@ U 1 1 5BA70CCF
 P 7450 5200
 F 0 "J4" H 7477 5176 50  0000 L CNN
 F 1 "BLE_Connector" H 7477 5085 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Horizontal" H 7450 5200 50  0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 7450 5200 50  0001 C CNN
 F 3 "~" H 7450 5200 50  0001 C CNN
 	1    7450 5200
 	1    0    0    -1  

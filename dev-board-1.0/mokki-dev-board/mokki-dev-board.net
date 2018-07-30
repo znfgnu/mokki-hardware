@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source /home/konrad/mokki/hardware/dev-board-1.0/mokki-dev-board/mokki-dev-board.sch)
-    (date "Mon Jul 30 13:03:44 2018")
+    (date "Mon Jul 30 18:18:31 2018")
     (tool "Eeschema 5.0.0")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
@@ -252,7 +252,7 @@
       (tstamp 5B977635))
     (comp (ref J4)
       (value BLE_Connector)
-      (footprint Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Horizontal)
+      (footprint Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical)
       (datasheet ~)
       (libsource (lib Connector) (part Conn_01x06_Female) (description "Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)"))
       (sheetpath (names /) (tstamps /))
