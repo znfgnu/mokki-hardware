@@ -2817,7 +2817,7 @@
   (gr_text www.mokki.org (at 187.616 87.474) (layer F.SilkS)
     (effects (font (size 1.5 1.5) (thickness 0.3)))
   )
-  (gr_text 30-07-2018 (at 103.288 105 90) (layer F.SilkS)
+  (gr_text 1-08-2018 (at 103.288 105 90) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.2)))
   )
   (gr_text "Mokki Dev Board v. 1.0" (at 100.748 105 90) (layer F.SilkS)
